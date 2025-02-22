@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vl89gWk1suqXt96KsoiGL6B1wElHlxfghi6yGevzMxc=",
+  "Source": "GestionDachat.API",
+  "BasePath": "_content/GestionDachat.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@GestionDachat_HostAddress = http://localhost:5262
+
+GET {{GestionDachat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

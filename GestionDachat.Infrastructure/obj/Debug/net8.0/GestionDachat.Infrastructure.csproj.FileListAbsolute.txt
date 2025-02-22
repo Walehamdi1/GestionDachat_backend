@@ -1,0 +1,17 @@
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\GestionDachat.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\GestionDachat.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\GestionDachat.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\GestionDachat.Infrastructure.AssemblyInfo.cs
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\GestionDachat.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\bin\Debug\net8.0\GestionDachat.Infrastructure.deps.json
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\bin\Debug\net8.0\GestionDachat.Infrastructure.dll
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\bin\Debug\net8.0\GestionDachat.Infrastructure.pdb
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\GestionDachat.Infrastructure.dll
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\refint\GestionDachat.Infrastructure.dll
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\GestionDachat.Infrastructure.pdb
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\ref\GestionDachat.Infrastructure.dll
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\bin\Debug\net8.0\GestionDachat.Application.dll
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\bin\Debug\net8.0\GestionDachat.Domain.dll
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\bin\Debug\net8.0\GestionDachat.Application.pdb
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\bin\Debug\net8.0\GestionDachat.Domain.pdb
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Infrastructure\obj\Debug\net8.0\GestionD.C269B737.Up2Date

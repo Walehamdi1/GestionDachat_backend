@@ -1,0 +1,11 @@
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\bin\Debug\net8.0\GestionDachat.Domain.deps.json
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\bin\Debug\net8.0\GestionDachat.Domain.dll
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\bin\Debug\net8.0\GestionDachat.Domain.pdb
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\obj\Debug\net8.0\GestionDachat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\obj\Debug\net8.0\GestionDachat.Domain.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\obj\Debug\net8.0\GestionDachat.Domain.AssemblyInfo.cs
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\obj\Debug\net8.0\GestionDachat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\obj\Debug\net8.0\GestionDachat.Domain.dll
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\obj\Debug\net8.0\refint\GestionDachat.Domain.dll
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\obj\Debug\net8.0\GestionDachat.Domain.pdb
+C:\Users\MSI\Desktop\PFE\Backend\GestionDachat\GestionDachat.Domain\obj\Debug\net8.0\ref\GestionDachat.Domain.dll

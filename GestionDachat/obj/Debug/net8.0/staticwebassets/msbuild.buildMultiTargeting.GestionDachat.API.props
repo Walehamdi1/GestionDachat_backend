@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GestionDachat.API.props" />
+</Project>
